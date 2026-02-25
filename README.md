@@ -1,16 +1,34 @@
-## Hi there 👋
+<!-- HEADER -->
+<h1 align="center">Hi, I'm Bingxi Jiang 👋</h1>
+<p align="center">
+AI Researcher • ML Engineer • Builder of LLM-native systems
+</p>
 
-<!--
-**Bingxi-Jiang/Bingxi-Jiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Bingxi-Jiang&color=blue&style=flat"/>
+<img src="https://img.shields.io/github/followers/Bingxi-Jiang?style=social"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I work at the intersection of **AI research and production systems**, focusing on how modern LLMs reason, represent knowledge, and can be turned into reliable real-world tools.
+
+• AI alignment & representation probing  
+• Multimodal vision-language systems  
+• LLM agents and infrastructure  
+• Large-scale data pipelines  
+---
+
+## Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Bingxi-Jiang&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bingxi-Jiang&layout=compact&theme=tokyonight"/>
+</p>
+
+---

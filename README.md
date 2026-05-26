@@ -36,7 +36,7 @@ I am an AI Researcher and Engineer focused on the intersection of **representati
 
 ### 📝 Selected Projects / Notes
 
-* **[CalGlass](https://github.com/Bingxi-Jiang/Calglass-Artificial-Intelligence-based-Calorie-Recognition-IoT-Glasses)** – An AI-powered IoT glasses system that detects food using YOLO, classifies dishes, and estimates calorie intake through a vision-to-database pipeline.
+* **[Noted](https://github.com/Bingxi-Jiang/Noted)** – A full-stack real-time transcription app with rolling summaries, topic detection, and RAG-powered Q&A.
 
 * *(WIP)* Currently exploring large language model alignments by evaluating behavioral consistency.
 
@@ -45,7 +45,7 @@ I am an AI Researcher and Engineer focused on the intersection of **representati
 I’m always open to discussing LLMs, scaling laws, or collaborating on research ideas.
 
 * **WeChat:** `PaulJiang137`
-* **Email:** [PaulJiang137@gmail.com](mailto:PaulJiang137@gmail.com)
+* **Email:** [PaulJiang817@gmail.com](mailto:PaulJiang817@gmail.com)
 
 <br>
 <div align="center">
